@@ -19,7 +19,7 @@ class backend {
 	 ensure  => present,
 	 mode    => '0644',
 	 owner   => 'root',
-	 content => template('../templates/index.php.erb'),
+	 content => template('backend/index.php.erb'),
 	 notify  => Service['httpd'],
 	}
 }
