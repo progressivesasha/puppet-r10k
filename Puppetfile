@@ -4,5 +4,5 @@ forge "http://forge.puppetlabs.com"
 mod 'puppetlabs/ntp', :latest
 
 mod 'backend',
-	:git	=> 'git@github.com:progressivesasha/puppet-r10k',
+	:git	=> 'git@github.com:progressivesasha/puppet-r10k-mods',
 	:branch	=> 'production'
