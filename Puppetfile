@@ -2,6 +2,7 @@ moduledir './modules/'
 
 forge "http://forge.puppetlabs.com"
 mod 'puppetlabs/ntp', :latest
+mod 'puppetlabs/stdlib', :latest
 
 mod 'backend',
 	:git	=> 'git@github.com:progressivesasha/puppet-r10k-mods',

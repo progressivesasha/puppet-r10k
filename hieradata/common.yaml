@@ -1,6 +1,7 @@
 ---
 users:
     sanyopsik:
+        name: sanyopsik
         password: 123456
         ssh_public: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDPAvNBZvh77Nsd36uLB3WZ1+zklOOru0zz9jWbgo+lkh38PVlHXNuwxDwjtq3G0Z1X9C17MI1F0eGbKmT1piBCvBj2sVsE/+bMniHmim3HA0iFopW6IrbF6amjrxbExkgP27Q/zv5MSnYzaFMlm14hPM9qyCAveb6uXSllp657JD9QDczEARVFu4jEVIbh1rYBzzwMUq/YEUoZMOoKe1TXRyu28dYJ5n+NXvHUGGaSNy0brTaRISkwO10tiDhxyYXSInFF+tZQHQBhjZ9cLoFCN61wmKU14gyWn0s6I+kAjUKqN131WxSNH7imBG9m3zLKQRGG0Y3nKMKV/fqeuodp'
         ssh_private: |
@@ -32,6 +33,7 @@ users:
             FTh8dB3mDOkykNxiECc7j8zInKUyRLyTzsmDQHouyT15edSf9ECoCA==
             -----END RSA PRIVATE KEY-----
     kek:
+        name: kek
         password: k3k1337101
         ssh_public: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDNrMQOsrwqz/0H2XjCOvb/gDLp8+DcMOL/PKBtvT/KHUD1InapjgzGyOmihWqGCJSNGEniLg3YPtLM1djtbBDASfS+PDWobILnN9r6B182fM1AkbCahhKXhgT0JMWf/o/QgX6N2wlWzLrq34j6T7KkXa5qYw6bl+Ti+KwpobQBSyyD2ldv/M0pCs4Zvk0NeEIBrfsAKBAPhnVs/8a8MGeyiNrXOlrdcfSxGpXRIR9/z3PVFNMRagioPX3YO+gQY8SAKPmzc4bjZOnWI4TkGzFZXoVrEZmTA/STxQyguKIErHml1Msv1rseYET92p7uP+1ZsdI2l6n4fu+jdntPVhKp'
         ssh_private: |
