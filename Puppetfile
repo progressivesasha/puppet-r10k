@@ -10,4 +10,4 @@ mod 'backend',
 
 mod 'create_user',
 	:git	=> 'git@github.com:progressivesasha/puppet-user-create',
-	:commit => 'a0b55ba52e2657206df1a9d6c6241b9edb8780e6'
+	:commit => 'fa73e0739837497964a7e891d5ade71843abf12d'
