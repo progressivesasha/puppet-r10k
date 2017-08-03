@@ -6,4 +6,4 @@ mod 'puppetlabs/stdlib', :latest
 
 mod 'create_user',
 	:git	=> 'git@github.com:progressivesasha/puppet-user-create',
-	:latest
+	:commit => 'd69722ec77788950a73c5231dbf70676a540e353'
