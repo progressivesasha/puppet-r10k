@@ -1,4 +1,7 @@
 ---
+classes:
+  - create_user
+  
 users:
     sanyopsik:
         user_name: sanyopsik
